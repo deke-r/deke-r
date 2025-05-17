@@ -115,15 +115,24 @@
 
 ---
 
+---
+
 ### 🧰 Tools I Use:
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="40" height="40"/>
   </a>
   <a href="https://www.webyog.com/product/sqlyog" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/5415697?s=200&v=4" alt="SQLyog" width="40" height="40"/>
+    <img src="https://sc.filehippo.net/images/t_app-icon-l/p/81ea8158-96d6-11e6-a5d9-00163ec9f5fa/2266146321/sqlyog-logo" alt="SQLyog" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Bash" width="40" height="40"/>
   </a>
 </p>
+
 
 ---
 
