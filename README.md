@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bhavishya Chauhan</h1>
 <h3 align="center">A Versatile Full-Stack Software Developer from India</h3>
 
-- 💼 Passionate about building scalable web applications and robust backend systems
-- 🚀 Experienced in end-to-end deployment, server management, and performance optimization
+- 💼 Passionate about building scalable web applications and robust backend systems  
+- 🚀 Skilled in full-cycle development, deployment, and server administration  
 - 📫 Reach me at **bhavishya2468@gmail.com**
 
 ---
@@ -75,19 +75,31 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
   </a>
   <a href="https://pm2.keymetrics.io/" target="_blank" rel="noreferrer">
-    <img src="https://pm2.keymetrics.io/images/logo.svg" alt="PM2" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsFAj_6iBTqEqk5HsEnPebnohEPyPVGPBKGGaqV1_tlb9n1OpEEpoyGFpXsQK1dFelbPk&usqp=CAU" alt="PM2" width="40" height="40"/>
   </a>
   <a href="https://www.termius.com/" target="_blank" rel="noreferrer">
-    <img src="https://static.termius.com/images/og_image.png" alt="Termius" width="40" height="40"/>
+    <img src="https://store-images.s-microsoft.com/image/apps.21831.13666025735757375.7c0b6616-0df9-4274-955f-0bc6a453ad75.625edd74-08fd-47aa-aa0d-8179c4f8a759" alt="Termius" width="40" height="40"/>
   </a>
   <a href="https://ubuntu.com/server" target="_blank" rel="noreferrer">
     <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="Ubuntu Server" width="40" height="40"/>
   </a>
   <a href="https://cpanel.net/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/cpanel/cpanel-icon.svg" alt="cPanel" width="40" height="40"/>
+    <img src="https://kinsta.com/wp-content/uploads/2017/12/what-is-cpanel.png" alt="cPanel" width="40" height="40"/>
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+### 🧰 Tools I Use:
+<p align="left">
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="40" height="40"/>
+  </a>
+  <a href="https://www.webyog.com/product/sqlyog" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/5415697?s=200&v=4" alt="SQLyog" width="40" height="40"/>
   </a>
 </p>
 
