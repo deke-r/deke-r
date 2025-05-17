@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhavishya Chauhan</h1>
-<h3 align="center">A Versatile Full-Stack Software Developer from India</h3>
+<h3 align="center">A Versatile Full-Stack Software Developer (SDE) from India</h3>
 
 - 💼 Passionate about building scalable web applications and robust backend systems  
 - 🚀 Skilled in full-cycle development, deployment, and server administration  
