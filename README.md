@@ -25,8 +25,8 @@
 - 🌐 [CFDSI Website](https://cfdsi.com/)
 
 #### 🛠️ Developed by Me 
-- 🔐 [Jubilant Connect Portal (CMS)](https://tsg.jacpl.in/)
-- 👥 [Jubilant HRM Portal](https://connect.jacpl.in/)
+- 🔐 [Jubilant Connect Portal](https://connect.jacpl.in/)
+- 👥 [Jubilant CMS Portal](https://tsg.jacpl.in/)
 - 👨‍💼 [Manthan IT Solutions HRM](https://hr.manthanitsolutions.com/)
 
 ---
