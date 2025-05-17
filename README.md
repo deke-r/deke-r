@@ -16,6 +16,20 @@
 </p>
 
 ---
+### 🔗 Live Projects
+
+#### ✅ Developed & Deployed by Me
+- 🌐 [Starglass Website](https://starglass.in/)
+- 🌐 [Acme Global Website](https://acmeglobal.in/)
+- 🌐 [SDEI Website](https://sdei.in/)
+- 🌐 [CFDSI Website](https://cfdsi.com/)
+
+#### 🛠️ Developed by Me (Deployed by Others)
+- 🔐 [Jubilant Connect Portal (CMS)](https://tsg.jacpl.in/)
+- 👥 [Jubilant HRM Portal](https://connect.jacpl.in/)
+- 👨‍💼 [Manthan IT Solutions HRM](https://hr.manthanitsolutions.com/)
+
+---
 
 ### 🛠️ Core Technologies & Frameworks:
 <p align="left">
