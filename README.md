@@ -24,7 +24,7 @@
 - 🌐 [SDEI Website](https://sdei.in/)
 - 🌐 [CFDSI Website](https://cfdsi.com/)
 
-#### 🛠️ Developed by Me (Deployed by Others)
+#### 🛠️ Developed by Me 
 - 🔐 [Jubilant Connect Portal (CMS)](https://tsg.jacpl.in/)
 - 👥 [Jubilant HRM Portal](https://connect.jacpl.in/)
 - 👨‍💼 [Manthan IT Solutions HRM](https://hr.manthanitsolutions.com/)
