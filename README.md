@@ -10,7 +10,7 @@
 ### 🌐 Connect with me:
 <!-- Add LinkedIn, GitHub, Twitter links here if available -->
 <p align="left">
-  <a href="https://www.linkedin.com/in/bhavishya7296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/deke-r?original_referer=https%3A%2F%2Fgithub.com%2F" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
